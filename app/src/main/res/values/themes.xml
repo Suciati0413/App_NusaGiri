@@ -1,0 +1,53 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.GiriNusa" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <item name="android:windowBackground">@color/white3</item>
+        <item name="android:statusBarColor">@android:color/transparent</item>
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+    </style>
+    <style name="Base.Theme.Home" parent="Theme.AppCompat.Light">
+        <item name="android:windowBackground">@color/white3</item>
+        <item name="android:statusBarColor">@color/white3</item>
+        <item name="android:windowLightStatusBar">true</item>
+        <item name="colorPrimary">@color/white3</item>
+        <item name="colorPrimaryVariant">@color/white3</item>
+        <item name="fontFamily">@font/nunito_bold</item>
+    </style>
+
+    <style name="Theme.App.Starting" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="android:windowSplashScreenAnimatedIcon">@drawable/img_splash</item>
+        <item name="android:windowSplashScreenBackground">@color/chocolate</item>
+        <item name="android:windowSplashScreenAnimationDuration">3000</item>
+    </style>
+
+    <style name="TitleStyleOnBoarding">
+        <item name="android:textColor">@color/white</item>
+        <item name="android:typeface">monospace</item>
+        <item name="android:textSize">20sp</item>
+        <item name="fontFamily">@font/ramaraja_regular</item>
+    </style>
+    <style name="TitleStyleHome">
+        <item name="android:textColor">@color/white5</item>
+        <item name="android:typeface">monospace</item>
+        <item name="android:textSize">20sp</item>
+        <item name="fontFamily">@font/nunito_medium</item>
+    </style>
+    <style name="SubTittle">
+        <item name="android:textColor">@color/white</item>
+        <item name="android:typeface">monospace</item>
+        <item name="android:textSize">15sp</item>
+    </style>
+    <style name="SubTittleHome">
+        <item name="android:textColor">@color/white</item>
+        <item name="android:typeface">monospace</item>
+        <item name="android:textSize">15sp</item>
+        <item name="fontFamily">@font/kantumruypro_wght</item>
+    </style>
+    <style name="Theme.GiriNusa" parent="Base.Theme.GiriNusa" />
+
+    <style name="Base.Theme.Detail" parent="Theme.AppCompat.Light.NoActionBar">
+    <item name="android:statusBarColor">@android:color/transparent</item>
+    <item name="android:windowLightStatusBar">true</item>
+    </style>
+</resources>

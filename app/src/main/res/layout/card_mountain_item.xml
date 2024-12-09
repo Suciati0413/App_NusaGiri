@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_margin="16dp"
+    app:cardCornerRadius="16dp">
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="180dp">
+
+        <ImageView
+            android:id="@+id/IvMountain"
+            android:layout_width="0dp"
+            android:layout_height="180dp"
+            android:scaleType="centerCrop"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            android:clipToOutline="true"
+            android:src="@drawable/img_onboarding3"/>
+
+        <TextView
+            android:id="@+id/tvMountainName"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="8dp"
+            android:layout_marginStart="16dp"
+            android:text="@string/mountain_name"
+            android:textColor="@android:color/white"
+            android:textSize="18sp"
+            android:textStyle="bold"
+            app:layout_constraintBottom_toBottomOf="@id/IvMountain"
+            app:layout_constraintStart_toStartOf="@id/IvMountain"
+            app:layout_constraintTop_toTopOf="@+id/IvMountain"
+            app:layout_constraintVertical_bias="0.826" />
+
+        <LinearLayout
+            android:id="@+id/linearLayout"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="16dp"
+            android:orientation="horizontal"
+            app:layout_constraintStart_toStartOf="@id/tvMountainName"
+            app:layout_constraintTop_toBottomOf="@id/tvMountainName">
+
+            <TextView
+                android:id="@+id/tvMountainLocation"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="3dp"
+                android:text="Probolinggo, East Java"
+                android:textColor="@color/white2"
+                android:textSize="14sp" />
+
+            <TextView
+                android:id="@+id/tvElevation"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="5dp"
+                android:text="@string/elevation"
+                android:textColor="@color/white2"/>
+        </LinearLayout>
+
+        <TextView
+            android:id="@+id/tvMountainPrice"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginEnd="40dp"
+            android:layout_marginBottom="7dp"
+            android:text="@string/price"
+            android:textColor="@android:color/white"
+            android:textSize="14sp"
+            android:textStyle="bold"
+            app:layout_constraintBottom_toBottomOf="@id/IvMountain"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintTop_toTopOf="@+id/IvMountain"
+            app:layout_constraintVertical_bias="0.826" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginEnd="15dp"
+            android:layout_marginBottom="7dp"
+            android:text="/Trip"
+            android:textColor="@color/white2"
+            android:textSize="10sp"
+            app:layout_constraintBottom_toBottomOf="@id/IvMountain"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintTop_toTopOf="@+id/IvMountain"
+            app:layout_constraintVertical_bias="0.826" />
+
+        <ImageView
+            android:id="@+id/ivLocationIcon"
+            android:layout_width="20dp"
+            android:layout_height="20dp"
+            android:contentDescription="Location Icon"
+            android:src="@drawable/location"
+            android:layout_marginStart="20dp"
+            app:layout_constraintEnd_toStartOf="@+id/linearLayout"
+            app:layout_constraintTop_toBottomOf="@+id/tvMountainName" />
+
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+</androidx.cardview.widget.CardView>

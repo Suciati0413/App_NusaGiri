@@ -1,0 +1,179 @@
+<resources>
+    <string name="app_name">GiriNusa</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="tv_welcome">Welcome to GiriNusa</string>
+    <string name="tv_sub_tittle">Treading High, Touched the Clouds</string>
+    <string name="tv_sub_list_mountain">Mountain List</string>
+    <string name="mountain_name">Mountain Name</string>
+    <string name="region_height">Location | Height</string>
+    <string name="price">Price</string>
+    <string name="about">About</string>
+    <string name="nameAuthor">Suciati</string>
+    <string name="mobile_developer">Mobile Developer</string>
+    <string name="email">suciati341@gmail.com</string>
+    <string name="github">https://github.com/Suciati0413</string>
+    <string name="linkedin">https://www.linkedin.com/in/suciati49/</string>
+    <string name="contact">CONTACT</string>
+    <string name="description">DESCRIPTION</string>
+    <string name="desc_app">NusaGiri adalah aplikasi edukasi yang dirancang khusus untuk memperkenalkan pengguna pada keindahan dan kekayaan gunung-gunung di Indonesia. Aplikasi ini menyediakan informasi yang lengkap dan menarik tentang berbagai gunung, mulai dari lokasi, sejarah, hingga fakta unik yang dapat memperkaya pengetahuan pengguna.
+
+Melalui tampilan yang intuitif dan ramah pengguna, NusaGiri menghadirkan pengalaman eksplorasi digital yang memudahkan pengguna untuk mengenal gunung-gunung favorit mereka....</string>
+    <string name="elevation">| elevation</string>
+
+    <string-array name="mountain_name">
+        <item>Gunung Andong</item>
+        <item>Gunung Bromo</item>
+        <item>Gunung Gede</item>
+        <item>Gunung Krakatau</item>
+        <item>Gunung Lawu</item>
+        <item>Gunung Merapi</item>
+        <item>Gunung Merbabu</item>
+        <item>Gunung Prau</item>
+        <item>Gunung Rinjani</item>
+        <item>Gunung Salak</item>
+        <item>Gunung Semeru</item>
+        <item>Gunung Sindoro</item>
+        <item>Gunung Slamet</item>
+        <item>Gunung Sumbing</item>
+    </string-array>
+
+    <string-array name="price_mountain">
+        <item>Rp 10.000</item>
+        <item>Rp 34.000</item>
+        <item>Rp 29.000</item>
+        <item>Rp 100.000</item>
+        <item>Rp 20.000</item>
+        <item>Rp 15.000</item>
+        <item>Rp 15.000</item>
+        <item>Rp 15.000</item>
+        <item>Rp 20.000</item>
+        <item>Rp 15.000</item>
+        <item>Rp 24.000</item>
+        <item>Rp 10.000</item>
+        <item>Rp 15.000</item>
+        <item>Rp 7.000</item>
+    </string-array>
+
+    <string-array name="elevation_mountain_home">
+        <item>| 1.726m</item>
+        <item>| 2.329m</item>
+        <item>| 3.026m</item>
+        <item>| 813m</item>
+        <item>| 3.265m</item>
+        <item>| 2.930m</item>
+        <item>| 3.145m</item>
+        <item>| 2.565m</item>
+        <item>| 3.726m</item>
+        <item>| 2.211m</item>
+        <item>| 3.676m</item>
+        <item>| 3.150m</item>
+        <item>| 3.428m</item>
+        <item>| 3.371m</item>
+    </string-array>
+
+    <string-array name="description_mountain">
+        <item>Gunung Andong, dengan ketinggian 1.726 meter di atas permukaan laut, terletak di Kabupaten Magelang, Jawa Tengah. Gunung ini populer di kalangan pendaki pemula karena jalur pendakiannya yang relatif mudah dan dapat diselesaikan dalam waktu 2-3 jam. Meskipun kecil, Gunung Andong menawarkan pemandangan yang memukau, termasuk pemandangan Gunung Merbabu, Merapi, Sumbing, dan Sindoro, serta lanskap pedesaan Magelang. Puncaknya juga menjadi tempat yang sempurna untuk menikmati keindahan matahari terbit dan terbenam.
+        Selain itu, pendakian ke Gunung Andong memberikan pengalaman alam yang menyegarkan dengan udara sejuk dan suasana yang tenang. Terdapat beberapa titik puncak, seperti Puncak Jiwa, Puncak Makam, dan Puncak Alap-Alap, yang memberikan sudut pandang berbeda terhadap keindahan alam sekitar. Dengan akses yang mudah dari Kota Magelang dan jalur yang tidak terlalu sulit, Gunung Andong menjadi pilihan ideal bagi mereka yang ingin merasakan sensasi mendaki tanpa harus mempersiapkan pendakian yang berat.</item>
+        <item>Gunung Bromo, dengan ketinggian 2.329 meter, adalah gunung berapi aktif di Taman Nasional Bromo Tengger Semeru, Jawa Timur. Dikenal dengan kawah aktifnya yang besar dan Lautan Pasir yang luas, Bromo menawarkan pemandangan dramatis. Dari puncak atau Penanjakan, wisatawan bisa menikmati sunrise ikonik dengan latar belakang Gunung Semeru</item>
+        <item>Gunung Gede adalah gunung berapi aktif di Taman Nasional Gunung Gede Pangrango, Jawa Barat, dengan ketinggian sekitar 2.958 meter. Terkenal di kalangan pendaki, Gunung Gede menawarkan pemandangan indah seperti kawah, padang savana, dan hutan lebat yang kaya akan flora dan fauna, termasuk bunga edelweis dan elang jawa. Puncaknya memberikan panorama matahari terbit yang memukau dengan latar Gunung Pangrango. Jalur pendakian utama dari Cibodas dan Gunung Putri menambah daya tarik gunung ini sebagai tujuan petualangan alam yang populer.</item>
+        <item>Gunung Anak Krakatau adalah gunung berapi aktif di Selat Sunda, Indonesia, yang terbentuk setelah letusan Krakatau pada 1883. Dengan ketinggian sekitar 157 meter, gunung ini terus berkembang akibat aktivitas vulkanik. Anak Krakatau terkenal dengan lanskap unik berupa pulau vulkanik dan pantai hitam, serta menarik wisatawan yang ingin menyaksikan fenomena geologisnya. Pendakian dilakukan dengan hati-hati karena potensi letusan yang masih ada.</item>
+        <item>Gunung Lawu, dengan ketinggian 3.265 meter, terletak di perbatasan Jawa Tengah dan Jawa Timur. Gunung ini populer di kalangan pendaki dan menawarkan pemandangan indah, hutan tropis, padang rumput, dan kawah kecil di puncaknya. Selain itu, terdapat situs sejarah seperti Candi Cetho dan Candi Sukuh di lerengnya. Pendakian ke puncak memakan waktu sekitar 6–8 jam, dengan pemandangan matahari terbit yang memukau.</item>
+        <item>Gunung Merapi, dengan ketinggian 2.930 meter, adalah salah satu gunung berapi paling aktif di dunia, terletak di perbatasan Jawa Tengah dan Yogyakarta. Dikenal dengan letusannya yang sering, Merapi menarik pendaki dan wisatawan untuk menyaksikan kawah aktif dan pemandangan alam sekitar, termasuk hutan dan lembah. Pendakian ke puncak sangat menantang dan diawasi ketat karena aktivitas vulkaniknya.</item>
+        <item>Gunung Merbabu, dengan ketinggian 3.145 meter, adalah gunung berapi tidak aktif di Jawa Tengah. Populer di kalangan pendaki, Merbabu menawarkan pemandangan padang rumput, hutan pegunungan, dan panorama Gunung Merapi yang berdampingan. Jalur pendakian utama seperti Selo, Suwanting, dan Wekas memberikan variasi pemandangan, dengan puncaknya menyuguhkan panorama indah saat matahari terbit dan terbenam.</item>
+        <item>Gunung Prau, dengan ketinggian 2.565 meter, terletak di Dataran Tinggi Dieng, Jawa Tengah. Gunung ini terkenal sebagai lokasi terbaik untuk menikmati sunrise dengan latar pegunungan seperti Sindoro dan Sumbing. Jalur pendakiannya pendek dan cocok bagi pemula, menawarkan pemandangan padang rumput luas serta bunga daisy musiman di puncaknya.</item>
+        <item>Gunung Rinjani, dengan ketinggian 3.726 meter, adalah gunung berapi aktif di Lombok, Nusa Tenggara Barat. Dikenal akan pemandangan indahnya, Rinjani memiliki Danau Segara Anak di kaldera, air terjun, dan hutan tropis. Jalur pendakian utama seperti Sembalun dan Senaru menawarkan tantangan serta panorama pulau dan samudra dari puncak, menjadikannya favorit bagi pendaki berpengalaman.</item>
+        <item>Gunung Salak adalah gunung berapi aktif di Jawa Barat, Indonesia, dengan ketinggian sekitar 2.211 meter. Gunung ini terkenal dengan pemandangan alam yang indah, hutan tropis yang lebat, dan kawah-kawah kecil. Pendakian ke puncaknya cukup menantang, dengan jalur yang curam dan beragam, serta pemandangan yang memukau, terutama di sekitar kawasan hutan dan lembahnya.</item>
+        <item>Gunung Semeru, dengan ketinggian 3.676 meter, adalah gunung tertinggi di Pulau Jawa dan gunung berapi aktif di Taman Nasional Bromo Tengger Semeru, Jawa Timur. Puncaknya, Mahameru, menawarkan pemandangan spektakuler, termasuk Danau Ranu Kumbolo. Gunung ini populer di kalangan pendaki berpengalaman karena aktivitas vulkaniknya dan pemandangan alam yang menakjubkan.</item>
+        <item>Gunung Sindoro, dengan ketinggian 3.150 meter, terletak di Jawa Tengah, Indonesia. Gunung ini merupakan gunung berapi tidak aktif yang menawarkan pemandangan indah, termasuk puncak yang dapat dicapai melalui jalur pendakian seperti jalur Kledung. Sindoro populer di kalangan pendaki karena jalurnya yang menantang dan pemandangan matahari terbit yang memukau dari puncaknya.</item>
+        <item>Gunung Slamet, dengan ketinggian 3.428 meter, adalah gunung berapi aktif di Jawa Tengah, Indonesia. Gunung ini dikenal dengan pemandangan yang indah, jalur pendakian yang menantang, dan kawah aktif di puncaknya. Pendakian ke puncak Slamet menawarkan tantangan bagi pendaki berpengalaman, dengan pemandangan yang memukau, terutama saat matahari terbit.</item>
+        <item>Gunung Sumbing, dengan ketinggian 3.371 meter, adalah gunung berapi tidak aktif di Jawa Tengah, Indonesia. Gunung ini terkenal dengan pemandangan alam yang spektakuler, jalur pendakian yang menantang, dan puncak yang menawarkan panorama indah. Sumbing sering menjadi tujuan pendakian bagi mereka yang mencari tantangan dan keindahan alam, termasuk pemandangan matahari terbit yang memukau.</item>
+    </string-array>
+
+    <string-array name="status_mountain">
+        <item>Active</item>
+        <item>Active</item>
+        <item>Active</item>
+        <item>Active</item>
+        <item>Active</item>
+        <item>Active</item>
+        <item>NonActive</item>
+        <item>NonActive</item>
+        <item>Active</item>
+        <item>Active</item>
+        <item>Active</item>
+        <item>NonActive</item>
+        <item>Active</item>
+        <item>Active</item>
+    </string-array>
+
+    <string-array name="elevation_mountain">
+        <item>1.726m</item>
+        <item>2.329m</item>
+        <item>3.026m</item>
+        <item>813m</item>
+        <item>3.265m</item>
+        <item>2.930m</item>
+        <item>3.145m</item>
+        <item>2.565m</item>
+        <item>3.726m</item>
+        <item>2.211m</item>
+        <item>3.676m</item>
+        <item>3.150m</item>
+        <item>3.428m</item>
+        <item>3.371m</item>
+    </string-array>
+
+
+    <string-array name="temp_mountain">
+        <item>14 – 15 °C</item>
+        <item>5 – 8 °C</item>
+        <item>5 °C</item>
+        <item>22 – 29 °C</item>
+        <item>5 – 15 °C</item>
+        <item>14 – 15 °C</item>
+        <item>5 – 15 °C</item>
+        <item>5 – 15 °C</item>
+        <item>5°C</item>
+        <item>5°C – 10°C</item>
+        <item> 5°C</item>
+        <item>5°C – 10°C</item>
+        <item>5°C – 10°C</item>
+        <item> 5°C</item>
+    </string-array>
+
+    <integer-array name="data_photo">
+        <item>@drawable/gunung_andong</item>
+        <item>@drawable/gunung_bromo</item>
+        <item>@drawable/gunung_gede_pangrango</item>
+        <item>@drawable/gunung_krakatau</item>
+        <item>@drawable/gunung_lawu</item>
+        <item>@drawable/gunung_merapi</item>
+        <item>@drawable/gunung_merbabu</item>
+        <item>@drawable/gunung_prau</item>
+        <item>@drawable/gunung_rinjani</item>
+        <item>@drawable/gunung_salak</item>
+        <item>@drawable/gunung_semeru</item>
+        <item>@drawable/gunung_sindoro</item>
+        <item>@drawable/gunung_slamet</item>
+        <item>@drawable/gunung_sumbing</item>
+    </integer-array>
+
+    <string-array name="region_mountain">
+        <item>Magelang, East Java</item>
+        <item>Bogor, West Java</item>
+        <item>Bogor, West Java</item>
+        <item>Lampung, South Sumatra</item>
+        <item>Karanganyar, Central Java</item>
+        <item>Yogyakarta, Central Java</item>
+        <item>Magelang, Central Java</item>
+        <item>Dieng, Central Java</item>
+        <item>Lombok,West Nusa Tenggara</item>
+        <item>Bogor, West Java</item>
+        <item>Malang,  East Java</item>
+        <item>Wonosobo, Central Java</item>
+        <item>Banyumas, Central Java</item>
+        <item>Magelang, East Java</item>
+    </string-array>
+
+</resources>

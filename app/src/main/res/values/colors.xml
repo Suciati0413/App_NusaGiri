@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="chocolate">#574C3E</color>
+    <color name="white_transparent">#BBBBBB</color>
+    <color name="chocolate_transparent">#8B8573</color>
+    <color name="chocolate2">#8A785F</color>
+    <color name="chocolate3">#9A9483</color>
+    <color name="chocolate4">#8B8573</color>
+    <color name="white2">#D9D9D9</color>
+    <color name="white3">#E2E3E7</color>
+    <color name="white4">#F8F8F8</color>
+    <color name="white5">#7F7F7F</color>
+</resources>
